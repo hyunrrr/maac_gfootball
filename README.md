@@ -1,3 +1,6 @@
+구글 축구게임에 멀티에이전트 강화학습 MAAC를 적용해 학습시킨 프로젝트입니다.
+===========================================================================
+
 # maac_gfootball
  using maac algorithm with Google football env
 
